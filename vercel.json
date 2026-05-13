@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd barkbook-codebase/barkbook && npm install && npm run build",
-  "outputDirectory": "barkbook-codebase/barkbook/.next",
-  "framework": "nextjs",
-  "installCommand": "echo 'skip'"
-}
