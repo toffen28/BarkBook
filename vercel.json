@@ -1,3 +1,5 @@
 {
-  "rootDirectory": "barkbook-codebase/barkbook"
+  "buildCommand": "cd barkbook-codebase/barkbook && npm run build",
+  "outputDirectory": "barkbook-codebase/barkbook/.next",
+  "installCommand": "cd barkbook-codebase/barkbook && npm install"
 }
