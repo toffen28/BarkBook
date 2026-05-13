@@ -1,6 +1,6 @@
 # BarkBook
 
-**Simple business management for dog groomers.**
+**Simple business management for dog groomers.** 
 
 BarkBook is an all-in-one web app for independent dog groomers to manage customers, appointments, quotes, invoices, and payments — without the paper diaries or WhatsApp chaos.
 
