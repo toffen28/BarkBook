@@ -11,7 +11,7 @@ BarkBook is an all-in-one web app for independent dog groomers to manage custome
 ## Features
 
 ### 🐾 Customer & Pet Management
-Keep detailed profiles for every furry client. Store grooming notes, allergies, temperament, and contact details so you're always prepared.
+Keep detailed profiles for every furry client. Store grooming notes, allergies, temperament, and contact details so you're always prepared. 
 
 ### 📅 Effortless Scheduling
 A clean, mobile-first calendar that lets you book appointments in seconds. See your week at a glance and never double-book again.
